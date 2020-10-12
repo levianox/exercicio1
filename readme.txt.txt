@@ -1,1 +1,1 @@
-informação sobre projeto
+https://github.com/levianox/exercicio1.git
